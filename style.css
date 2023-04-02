@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Inter;
+    src: url(fonts/Inter-VariableFont.ttf);
+}
+
+#title {
+    color: blue;
+    text-align: center;
+}
+
+body {
+    font-family: Inter;
+}
+
+.transparent {
+    opacity: 1;
+    background: black;
+    color: black;
+}
