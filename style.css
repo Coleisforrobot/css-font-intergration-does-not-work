@@ -13,7 +13,6 @@ body {
 }
 
 .transparent {
-    opacity: 1;
     background: black;
     color: black;
 }
